@@ -1,4 +1,4 @@
-Reti Chess
+Damas
 ==========
 
 A checkers game forked from [Reti Chess](https://github.com/romanmatiasko/reti-chess).
